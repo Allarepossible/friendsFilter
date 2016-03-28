@@ -11,6 +11,6 @@
 ### in this project I use VK API
 
 
-this project work only on localhoct/
+this project work only on localhost/
 
 
